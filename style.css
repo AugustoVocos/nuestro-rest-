@@ -1,0 +1,58 @@
+header {
+    border-bottom: solid 1px black;
+    margin: 2%;
+    padding: 2%
+}
+
+nav {
+    float: left;
+    display: block;
+    margin-left: 2%;
+    width: 14%;
+    box-sizing: border-box;
+}
+
+section {
+    float: left;
+    display: block;
+    border-left: solid 1px black;
+    margin: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+    width: 80%;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+    padding-left: 2%;
+}
+
+li {
+    padding: 2%;
+}
+
+h3 {
+    margin-bottom: 2%;
+    margin-top: 0%;
+}
+
+#logoFooter {
+    width: 20%;
+    height: auto;
+}
+
+#redesSociales {
+    float: left;
+}
+
+footer {
+    overflow: hidden;
+    background-color: darkgray;
+}
+
+body {
+    overflow: hidden;
+    width: 960px;
+    height: 100%;
+}
